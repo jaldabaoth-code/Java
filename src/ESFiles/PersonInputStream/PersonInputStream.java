@@ -1,4 +1,4 @@
-package ESFile.PersonInputStream;
+package ESFiles.PersonInputStream;
 
 import java.io.File;
 import java.io.FileWriter;
@@ -11,7 +11,7 @@ public class PersonInputStream {
         System.out.println("\n--- Quest : ESFile 1 (PersonInputStream) ---");
         String[] persons = {"Sophie", "Thomas", "Antoine"};
         int personsSize = persons.length;
-        String fileAddress = "src/ESFile/PersonInputStream/Resources/";
+        String fileAddress = "src/ESFiles/PersonInputStream/Resources/";
         // Loop for create files
         for(int i = 0; i < personsSize; i++) {
             // Create the file

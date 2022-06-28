@@ -2,8 +2,8 @@ import Collections.CollectionArrayList.CollectionArrayList;
 import Collections.CollectionList.CollectionList;
 import Collections.CollectionMap.CollectionMap;
 import Collections.CollectionTreeSet.CollectionTreeSet;
-import ESFile.PersonInputStream.PersonInputStream;
-import ESFile.PersonOutputStream.PersonOutputStream;
+import ESFiles.PersonInputStream.PersonInputStream;
+import ESFiles.PersonOutputStream.PersonOutputStream;
 import Operators.Operators;
 import POO3.WhoIAm;
 import POO6.Nature;
@@ -28,10 +28,10 @@ public class JavaApplication {
         /* Quest : Collection 4 (Map) */
         collectionMap();
 
-        /* Quest : ESFile 1 (PersonInputStream to a File) */
+        /* Quest : ESFile 1 (InputStream to a File) */
         personInputStream();
 
-        /* Quest : ESFile 2 (PersonOutputStream from a File) */
+        /* Quest : ESFile 2 (OutputStream from a File) */
         personOutputStream();
 
         /* Quest : POO 3 */
@@ -71,13 +71,13 @@ public class JavaApplication {
         new CollectionMap().main(args);
     }
 
-    /* Quest : ESFile 1 (PersonInputStream to a File) */
+    /* Quest : ESFile 1 (InputStream to a File) */
     public static void personInputStream() throws IOException {
         String[] args = {};
         new PersonInputStream().main(args);
     }
 
-    /* Quest : ESFile 2 (PersonOutputStream from a File) */
+    /* Quest : ESFile 2 (OutputStream from a File) */
     public static void personOutputStream() throws IOException {
         String[] args = {};
         new PersonOutputStream().main(args);

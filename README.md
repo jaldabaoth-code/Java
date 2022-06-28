@@ -27,11 +27,15 @@ You can run each project alone or all at once
 
    4. <a href="https://github.com/jaldabaoth-code/Java/tree/main/src/Collections/CollectionMap">Collection 4 - Map Java</a>
 
-4. <a href="https://github.com/jaldabaoth-code/Java/tree/main/src/ESFile">ESFile</a>
+4. <a href="https://github.com/jaldabaoth-code/Java/tree/main/src/ESFiles">ESFiles</a>
 
-5. <a href="https://github.com/jaldabaoth-code/Java/tree/main/src/POO3">POO 3</a>
+   1. <a href="https://github.com/jaldabaoth-code/Java/tree/main/src/ESFiles/PersonInputStream">ESFile 1 - InputStream Java</a>
 
-6. <a href="https://github.com/jaldabaoth-code/Java/tree/main/src/POO6">POO 6</a>
+   2. <a href="https://github.com/jaldabaoth-code/Java/tree/main/src/ESFiles/PersonOutputStream">ESFile 2 - OutputStream Java</a>
+
+6. <a href="https://github.com/jaldabaoth-code/Java/tree/main/src/POO3">POO 3 - Java</a>
+
+7. <a href="https://github.com/jaldabaoth-code/Java/tree/main/src/POO6">POO 6 - Java</a>
 
 ---
 

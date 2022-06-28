@@ -1,4 +1,4 @@
-package ESFile.PersonOutputStream;
+package ESFiles.PersonOutputStream;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -12,7 +12,7 @@ public class PersonOutputStream {
         System.out.println("\n--- Quest : ESFile 2 (PersonOutputStream) ---");
         String[] persons = {"Sophie", "Thomas", "Antoine"};
         int personsSize = persons.length;
-        String fileAddress = "src/ESFile/PersonOutputStream/Resources/";
+        String fileAddress = "src/ESFiles/PersonOutputStream/Resources/";
         // Loop for read files
         System.out.println(personsSize + " files have been read at : " + fileAddress);
         for(int i = 0; i < personsSize; i++) {

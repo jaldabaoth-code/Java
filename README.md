@@ -33,9 +33,13 @@ You can run each project alone or all at once
 
    2. <a href="https://github.com/jaldabaoth-code/Java/tree/main/src/ESFiles/PersonOutputStream">ESFile 2 - OutputStream Java</a>
 
-6. <a href="https://github.com/jaldabaoth-code/Java/tree/main/src/POO3">POO 3 - Java</a>
+5. <a href="https://github.com/jaldabaoth-code/Java/tree/main/src/POO">POO - Java</a>
 
-7. <a href="https://github.com/jaldabaoth-code/Java/tree/main/src/POO6">POO 6 - Java</a>
+   1. <a href="https://github.com/jaldabaoth-code/Java/tree/main/src/POO/POO3">POO 3 - Java</a>
+
+   2. <a href="https://github.com/jaldabaoth-code/Java/tree/main/src/POO/POO6">POO 6 - Java</a>
+   
+6. <a href="https://github.com/jaldabaoth-code/Java/tree/main/src/Inheritance">Inheritance - Java</a>
 
 ---
 

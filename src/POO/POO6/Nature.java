@@ -1,7 +1,7 @@
-package POO6;
+package POO.POO6;
 
-import POO6.Class.Hawkeye;
-import POO6.Class.Penguin;
+import POO.POO6.Class.Hawkeye;
+import POO.POO6.Class.Penguin;
 
 /* Quest : POO 6 */
 public class Nature {

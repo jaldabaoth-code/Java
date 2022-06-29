@@ -1,6 +1,6 @@
-package POO6.Class;
+package POO.POO6.Class;
 
-import POO6.Interface.Fly;
+import POO.POO6.Interface.Fly;
 
 public class Hawkeye extends Bird implements Fly {
     private boolean flying;

@@ -1,4 +1,4 @@
-package POO3;
+package POO.POO3;
 
 /* Quest : POO 3 */
 public class WhoIAm {

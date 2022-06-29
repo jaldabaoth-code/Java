@@ -4,9 +4,10 @@ import Collections.CollectionMap.CollectionMap;
 import Collections.CollectionTreeSet.CollectionTreeSet;
 import ESFiles.PersonInputStream.PersonInputStream;
 import ESFiles.PersonOutputStream.PersonOutputStream;
+import Inheritance.Hangar;
 import Operators.Operators;
-import POO3.WhoIAm;
-import POO6.Nature;
+import POO.POO3.WhoIAm;
+import POO.POO6.Nature;
 import java.io.IOException;
 
 /* Java quests */
@@ -39,6 +40,9 @@ public class JavaApplication {
 
         /* Quest : POO 6 */
         poo6();
+
+        /* Quest : Inheritance */
+        inheritance();
     }
 
     /* Quest : Operators */
@@ -93,5 +97,11 @@ public class JavaApplication {
     public static void poo6() {
         String[] args = {};
         new Nature().main(args);
+    }
+
+    /* Quest : Inheritance */
+    public static void inheritance() {
+        String[] args = {};
+        new Hangar().main(args);
     }
 }

@@ -1,4 +1,4 @@
-package POO3;
+package POO.POO3;
 
 public class Aware {
     private String firstname;

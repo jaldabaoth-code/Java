@@ -1,4 +1,4 @@
-package POO.POO6.Interface;
+package OOP.OOP6.Interface;
 
 public interface Fly {
     void takeOff();

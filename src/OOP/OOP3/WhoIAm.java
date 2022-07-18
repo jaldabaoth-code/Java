@@ -1,10 +1,10 @@
-package POO.POO3;
+package OOP.OOP3;
 
-/* Quest : POO 3 */
+/* Quest : OOP 3 */
 public class WhoIAm {
-    /* Main method that can run the quest POO 3 */
+    /* Main method that can run the quest OOP 3 */
     public static void main(String[] args) {
-        System.out.println("\n--- Quest : POO 3 ---");
+        System.out.println("\n--- Quest : OOP 3 ---");
         System.out.println(WhoIAm());
     }
 

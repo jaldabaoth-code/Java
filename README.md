@@ -33,11 +33,11 @@ You can run each project alone or all at once
 
    2. <a href="https://github.com/jaldabaoth-code/Java/tree/main/src/ESFiles/PersonOutputStream">ESFile 2 - OutputStream Java</a>
 
-5. <a href="https://github.com/jaldabaoth-code/Java/tree/main/src/POO">POO - Java</a>
+5. <a href="https://github.com/jaldabaoth-code/Java/tree/main/src/OOP">OOP - Java</a>
 
-   1. <a href="https://github.com/jaldabaoth-code/Java/tree/main/src/POO/POO3">POO 3 - Java</a>
+   1. <a href="https://github.com/jaldabaoth-code/Java/tree/main/src/OOP/OOP3">OOP 3 - Java</a>
 
-   2. <a href="https://github.com/jaldabaoth-code/Java/tree/main/src/POO/POO6">POO 6 - Java</a>
+   2. <a href="https://github.com/jaldabaoth-code/Java/tree/main/src/OOP/OOP6">OOP 6 - Java</a>
    
 6. <a href="https://github.com/jaldabaoth-code/Java/tree/main/src/Inheritance">Inheritance - Java</a>
 
@@ -47,4 +47,4 @@ You can run each project alone or all at once
 <a href="https://github.com/WildCodeSchool/quest-java-collection2">Link to the repository of <b>Collection 2 Quest</b> from WCS</a></br>
 <a href="https://github.com/WildCodeSchool/quest-java-collection3">Link to the repository of <b>Collection 3 Quest</b> from WCS</a></br>
 <a href="https://github.com/WildCodeSchool/quest-java-collection4">Link to the repository of <b>Collection 4 Quest</b> from WCS</a></br>
-<a href="https://github.com/WildCodeSchool/quest-java-oop3">Link to the repository of <b>POO 3 Quest</b> from WCS</a></br>
+<a href="https://github.com/WildCodeSchool/quest-java-oop3">Link to the repository of <b>OOP 3 Quest</b> from WCS</a></br>

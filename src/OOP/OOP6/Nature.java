@@ -1,13 +1,13 @@
-package POO.POO6;
+package OOP.OOP6;
 
-import POO.POO6.Class.Hawkeye;
-import POO.POO6.Class.Penguin;
+import OOP.OOP6.Class.Hawkeye;
+import OOP.OOP6.Class.Penguin;
 
-/* Quest : POO 6 */
+/* Quest : OOP 6 */
 public class Nature {
-    /* Main method that can run the quest POO 6 */
+    /* Main method that can run the quest OOP 6 */
     public static void main(String[] args) {
-        System.out.println("\n--- Quest : POO 6 ---");
+        System.out.println("\n--- Quest : OOP 6 ---");
         // Penguin
         Penguin penguin = new Penguin("Penguin");
         System.out.println("When the animal is \"" + penguin.getName() + "\"" + ", it do " + penguin.sing());

@@ -6,8 +6,8 @@ import ESFiles.PersonInputStream.PersonInputStream;
 import ESFiles.PersonOutputStream.PersonOutputStream;
 import Inheritance.Hangar;
 import Operators.Operators;
-import POO.POO3.WhoIAm;
-import POO.POO6.Nature;
+import OOP.OOP3.WhoIAm;
+import OOP.OOP6.Nature;
 import java.io.IOException;
 
 /* Java quests */
@@ -35,11 +35,11 @@ public class JavaApplication {
         /* Quest : ESFile 2 (OutputStream from a File) */
         personOutputStream();
 
-        /* Quest : POO 3 */
-        poo3();
+        /* Quest : OOP 3 */
+        oop3();
 
-        /* Quest : POO 6 */
-        poo6();
+        /* Quest : OOP 6 */
+        oop6();
 
         /* Quest : Inheritance */
         inheritance();
@@ -87,14 +87,14 @@ public class JavaApplication {
         new PersonOutputStream().main(args);
     }
 
-    /* Quest : POO 3 */
-    public static void poo3() {
+    /* Quest : OOP 3 */
+    public static void oop3() {
         String[] args = {};
         new WhoIAm().main(args);
     }
 
-    /* Quest : POO 6 */
-    public static void poo6() {
+    /* Quest : OOP 6 */
+    public static void oop6() {
         String[] args = {};
         new Nature().main(args);
     }

@@ -1,6 +1,6 @@
-package POO.POO6.Class;
+package OOP.OOP6.Class;
 
-import POO.POO6.Interface.Swim;
+import OOP.OOP6.Interface.Swim;
 
 public class Penguin extends Bird implements Swim {
     private boolean swimming;

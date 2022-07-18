@@ -1,4 +1,4 @@
-package POO.POO6.Class;
+package OOP.OOP6.Class;
 
 public abstract class Bird {
     private String name;

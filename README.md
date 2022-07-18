@@ -7,7 +7,9 @@
 
 ### Steps
 
-You can run each project alone or all at once
+1. Clone the repo from GitHub : `git clone git@github.com:jaldabaoth-code/Java.git`
+2. Enter the directory : `cd Java`
+3. You can run each project alone or all at once
 
 ---
 

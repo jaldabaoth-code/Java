@@ -10,7 +10,7 @@ import OOP.OOP3.WhoIAm;
 import OOP.OOP6.Nature;
 import java.io.IOException;
 
-/* Java quests */
+/* Java Quests */
 public class JavaApplication {
     /* Main method that can run all java quests */
     public static void main(String[] args) throws IOException {

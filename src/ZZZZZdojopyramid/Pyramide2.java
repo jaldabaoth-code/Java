@@ -1,4 +1,4 @@
-package dojopyramid;
+package ZZZZZdojopyramid;
 
 import java.util.ArrayList;
 

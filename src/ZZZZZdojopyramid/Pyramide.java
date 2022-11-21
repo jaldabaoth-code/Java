@@ -1,4 +1,4 @@
-package dojopyramid;/*
+package ZZZZZdojopyramid;/*
 Enoncé
 
 La pyramide de Sastantua est un exercice extrait de la piscine de l’école 42 que les candidat peuvent faire en bonus.

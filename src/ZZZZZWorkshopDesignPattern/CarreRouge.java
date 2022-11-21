@@ -1,4 +1,4 @@
-package ZZZZZDesignPattern;
+package ZZZZZWorkshopDesignPattern;
 
 public class CarreRouge extends Forme {
 

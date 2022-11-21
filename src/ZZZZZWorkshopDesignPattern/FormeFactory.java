@@ -1,4 +1,4 @@
-package ZZZZZDesignPattern;
+package ZZZZZWorkshopDesignPattern;
 
 import java.util.Date;
 

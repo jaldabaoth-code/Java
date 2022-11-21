@@ -1,4 +1,4 @@
-package ZZZZZDesignPattern;
+package ZZZZZWorkshopDesignPattern;
 
 public abstract class Forme {
 
